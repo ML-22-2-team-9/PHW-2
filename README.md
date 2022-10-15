@@ -4,8 +4,6 @@
 California Housing Prices
 Median house prices for California districts derived from the 1990 census
 
-# funciton description
-
 ## objective setting
 clustering the california housing prices, so we can know what is the most related feature with the housing prices
 
@@ -31,5 +29,8 @@ plot the elbow for kmeans that indicate the best K for the model.
 ## purity_score()
 show the purity score for the clustering model
 
-# process
+## process
 check the result for different combination of scaling(standard, minmax, robust) and encoding(onehot, label) of data set
+
+## contribution
+마승희 33%, 서유리 33%, 강성연 33%
